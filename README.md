@@ -2,6 +2,7 @@ Table of Contents
 ------
 
 repos:
+- [CompSci](https://github.com/RasPhilCo/compsci)
 - [playground](https://github.com/RasPhilCo/playground)
 - [Ruby Tapas](https://github.com/RasPhilCo/ruby-tapas)
 
